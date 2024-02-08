@@ -1,11 +1,63 @@
-.titulo{
+.titulo1{
     color: crimson;
     text-align: center;
     background-color:aquamarine;
 }
 
-.texto{
+.texto1{
     font-family: 'Times New Roman', Times, serif;
     font-size: 15pt;
+    text-align: justify;
+}
+
+
+.titulo2{
+    color:aquamarine;
+    text-align: center;
+    background-color:blueviolet;
+}
+
+.texto2{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 25pt;
+    text-align: justify;
+}
+
+
+.titulo3{
+    color:violet;
+    text-align: center;
+    background-color:tomato;
+}
+
+.texto3{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10pt;
+    text-align: justify;
+}
+
+
+.titulo4{
+    color:springgreen;
+    text-align: center;
+    background-color:slategray;
+}
+
+.texto4{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35pt;
+    text-align: justify;
+}
+
+
+.titulo5{
+    color:cornflowerblue;
+    text-align: center;
+    background-color:chartreuse;
+}
+
+.texto5{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40pt;
     text-align: justify;
 }
